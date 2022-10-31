@@ -1,0 +1,52 @@
+.formstyle{
+    border: 2px solid wheat;
+    height: 436px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: black;
+    color: whitesmoke;  
+}
+
+#calc{
+    width: 333px;
+    height: 45px;
+    margin: 20px;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 0.375rem 0.75rem;
+    background-color: white;
+}
+
+input{
+    width: 93px;
+    height: 38px;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin: 2px 2px;
+    background-color: bisque;
+}
+
+#clr{
+    width: 359px;
+    margin: 20px;
+    background-color: red;
+    color: white;
+}
+
+#equal{
+    background-color: rgb(3, 184, 255);
+    color: white;
+}
+
+.symbol{
+    background-color: gold;
+}
+
+input:hover{
+    transform: scale(1.04);
+}
